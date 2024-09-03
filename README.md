@@ -43,7 +43,7 @@
 
 <h2>Contact</h2>
 <p>
-  If you have any questions or feedback, feel free to reach out via email at <a href="mailto:your-email@example.com">SefaKahraman0001@gmail.com</a>.
+  If you have any questions or feedback, feel free to reach out via email at <a href="mailto:SefaKahraman0001@gmail.com">SefaKahraman0001@gmail.com</a>.
 </p>
 
 <p align="center">
