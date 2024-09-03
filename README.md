@@ -18,7 +18,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://yourgiflink.com/testing.gif" alt="Testing Process GIF">
+  <img src="https://github.com/SefaKahramann/SefaKahramann/blob/main/Images/image_processing20210902-8719-13sv1bw.gif" alt="Testing Process GIF">
 </p>
 
 <h2>Getting Started</h2>
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="(https://github.com/SefaKahramann/SefaKahramann/blob/main/Images/b6171159b949c70d88abb2208c10988d.gif)" alt="Automation GIF">
+  <img src="https://github.com/SefaKahramann/SefaKahramann/blob/main/Images/b6171159b949c70d88abb2208c10988d.gif" alt="Automation GIF">
 </p>
 
 <h2>Contributing</h2>
