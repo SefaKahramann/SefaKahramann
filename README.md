@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://yourgiflink.com/welcome.gif" alt="Welcome GIF">
+</p>
+
 <h1 align="center">Welcome to My QA Testing Repository</h1>
 
 <p align="center">
