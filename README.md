@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://yourgiflink.com/welcome.gif" alt="Welcome GIF">
+  <img src="Images/c5bb966a1c7ec518b97c06269f740248.gif" alt="Welcome GIF">
 </p>
 
 <h1 align="center">Welcome to My QA Testing Repository</h1>
