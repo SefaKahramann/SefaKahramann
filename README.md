@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://yourgiflink.com/automation.gif" alt="Automation GIF">
+  <img src="(https://github.com/SefaKahramann/SefaKahramann/blob/main/Images/b6171159b949c70d88abb2208c10988d.gif)" alt="Automation GIF">
 </p>
 
 <h2>Contributing</h2>
