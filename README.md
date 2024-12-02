@@ -1,15 +1,4 @@
 
-
-<p align="center">
-  <img src="Images/c5bb966a1c7ec518b97c06269f740248.gif" alt="Welcome GIF">
-</p>
-
-<h1 align="center">Welcome to My QA Testing Repository</h1>
-
-<p align="center">
-  <img src="https://yourgiflink.com/welcome.gif" alt="Welcome GIF">
-</p>
-
 <h2>About This Repository</h2>
 <p>
   This repository is dedicated to Quality Assurance (QA) testing practices. As a QA Tester, my goal is to ensure that software applications meet the highest standards of quality, functionality, and user experience. Here, you'll find various test cases, automation scripts, and documentation to help you understand the role of a QA Tester.
